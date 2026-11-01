@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /imports/
+
+Sitemap: https://my-calendar-yj-2026.web.app/sitemap.xml
